@@ -6,7 +6,7 @@ About me:
 * Starting a personal project which, I hope, someday will turn into a startup.
 * Stuff I have done over the years: software engineer, technical lead, data scientist, NMT researcher.
 
-These is a summary of my skillset:
+This is a summary of my skillset:
 * Machine Learning engineer: experience with classical data science (scikit-learn, pandas, SQL) and with deep learning (tensorflow/keras, pytorch) especially on NLP. Strong grasp on probability & statistics.
 * Full-stack engineer: experience with Python, Flask, Javascript, node.js, react, Java, C++, redis, postgres, mysql/mariadb, rabbitmq.
 * Mobile app developer, both for iOS (SwitfUI & UIKit) and Android (Kotlin + Jetpack Compose).
