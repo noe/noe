@@ -5,7 +5,7 @@
 * Stuff I have done over the years: software engineer, technical lead, data scientist, NMT researcher.
 
 ### Summary of my skillset:
-* Machine Learning engineer: experience with classical data science (scikit-learn, pandas, SQL) and with deep learning (tensorflow/keras, pytorch) especially on NLP. Strong grasp on probability & statistics.
+* Machine Learning engineer: experience with classical data science (scikit-learn, pandas, SQL) and with deep learning (tensorflow/keras, pytorch) especially on NLP. Grasp on probability & statistics.
 * Full-stack engineer: experience with Python, Flask, Javascript, node.js, react, Java, C++, redis, postgres, mysql/mariadb, rabbitmq.
 * Mobile app developer, both for iOS (SwitfUI & UIKit) and Android (Kotlin + Jetpack Compose).
 * Other technical skills: handy with unix cmd line, experience with docker.
