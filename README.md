@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 About me:
 * Finishing my PhD in Neural Machine Translation.
