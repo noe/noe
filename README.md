@@ -1,6 +1,6 @@
 
 ### About me:
-* Finishing my PhD in Neural Machine Translation.
+* PhD in Neural Machine Translation.
 * Starting a personal project which, I hope, someday will turn into a startup.
 * Stuff I have done over the years: software engineer, technical lead, data scientist, NMT researcher.
 
