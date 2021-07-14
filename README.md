@@ -1,3 +1,5 @@
+I am currently creating a language learning app called **Learnik**. Find out more at www.learnik.com
+
 
 ### About me:
 * PhD in Neural Machine Translation.
