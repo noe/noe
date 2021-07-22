@@ -1,4 +1,4 @@
-I am currently creating a language learning app called **Learnik**. Find out more at www.learnik.com
+I am currently creating a language learning app called **Langtern**. Find out more at www.langtern.com
 
 
 ### About me:
