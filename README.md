@@ -11,15 +11,15 @@ Areas of expertise:
 - **Systems engineering**: experience building scalable internet-facing services based on node.js/python, nginx, redis and SQL databases.
 
 
-By the way, I am currently creating a language learning app called **Langtern**. Find out more at www.langtern.com
+By the way, I am currently creating a language learning app for both teachers and students called **Langtern**. Find out more at www.langtern.com
 
 ---
 
-<a href="https://datascience.stackexchange.com/users/14675/noe?tab=profile"><img src="https://stackexchange.com/users/flair/343021.png" width="208" height="58" alt="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
 ### Profiles:
 * [LinkedIn profile][1]
-* [Data Science Stack Exchange](https://datascience.stackexchange.com/users/14675/ncasas)
 * [Google Scholar](https://scholar.google.com/citations?user=nCv6b9wAAAAJ)
+* [Data Science Stack Exchange](https://datascience.stackexchange.com/users/14675/ncasas) (ranked all-time 3rd highest reputation)
+
+  <a href="https://datascience.stackexchange.com/users/14675/noe?tab=profile"><img src="https://stackexchange.com/users/flair/343021.png" width="208" height="58" alt="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
   [1]: https://www.linkedin.com/in/noecasas/
