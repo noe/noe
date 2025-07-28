@@ -15,7 +15,7 @@ I the creator of a language learning app called **Langtern**. Find out more at w
 ### Profiles:
 * [LinkedIn profile][1]
 * [Google Scholar](https://scholar.google.com/citations?user=nCv6b9wAAAAJ)
-* [Data Science Stack Exchange](https://datascience.stackexchange.com/users/14675/ncasas) (ranked all-time 3rd highest reputation)
+* [Data Science Stack Exchange](https://datascience.stackexchange.com/users/14675/ncasas) (ranked all-time 2nd highest reputation)
 
   <a href="https://datascience.stackexchange.com/users/14675/noe?tab=profile"><img src="https://stackexchange.com/users/flair/343021.png" width="208" height="58" alt="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for noe on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
