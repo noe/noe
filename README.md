@@ -1,4 +1,6 @@
-Hi, I'm Noe Casas. I specialize in natural language processing (NLP) and artificial intelligence (AI). I work at Apple, as a machine learning engineer in Siri.
+Hi, I'm Noe Casas. I specialize in natural language processing (NLP) and artificial intelligence (AI).
+
+I work at Apple, as a machine learning engineer in Siri.
 
 
 Areas of expertise:
