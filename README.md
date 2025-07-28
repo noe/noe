@@ -1,11 +1,8 @@
-Hi, I'm Noe Casas. I specialize in natural language processing (NLP) and artificial intelligence (AI).
+Hi, I'm Noe Casas. I specialize in natural language processing (NLP) and artificial intelligence (AI). I work at Apple, as a machine learning engineer in Siri.
 
-If you're a **startup/company looking for guidance** in your endeavours, feel free to reach out at **contact@noecasas.com**. I'd be happy to discuss how I can be of assistance to you. Check out my [LinkedIn profile][1] or the summary below to know the areas where I could be helpful.
-
-如果您是家**需要技术指导和支持的公司**，请通过 **contact@noecasas.com** 联系我来安排**咨询服务**（汉语、英语都可以）。我们能讨论怎么合作。立刻查看我的[领英资料](https://www.linkedin.com/in/noecasas/?locale=zh_CN)或下面的摘要来了解我可以提供帮助的领域。
 
 Areas of expertise:
-- **Machine translation, language modelling and NLP**: I hold a PhD in Neural Machine Translation and have been doing NLP (deep learning-based and _classical_) for the last 5 years, both in Python and C++; I also have experience in speech processing and computer vision. I do both Pytorch and Tensorflow/Keras. Lately, I have been doing integrations with GPT-3.5 and GPT-4.
+- **Machine translation, language modelling and NLP**: I hold a PhD in Neural Machine Translation and have been doing NLP (deep learning-based and _classical_) for the last 8 years, both in Python and C++; I also have experience in speech processing and computer vision. I am experienced in both Pytorch and Tensorflow.
 - **Data science**: experience with the Python stack: scikit-learn, pandas, etc. I deal with SQL every day. Regarding algorithms: experience with logistic regression, SVMs, linear regression, Bayesian linear models, A/B testing, gradient-boosted trees, k-means, hdbscan.
 - **Software development**: almost 20 years of professional programming experience. Extensive backend experience in Python, Javascript, C++, and Java; experience also in mobile development in Kotlin and Swift, and some web development with React. 
 - **Systems engineering**: experience building scalable internet-facing services based on node.js/python, nginx, redis and SQL databases.
