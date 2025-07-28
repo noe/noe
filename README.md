@@ -8,7 +8,7 @@ Areas of expertise:
 - **Systems engineering**: experience building scalable internet-facing services based on node.js/python, nginx, redis and SQL databases.
 
 
-By the way, I am currently creating a language learning app for both teachers and students called **Langtern**. Find out more at www.langtern.com
+I the creator of a language learning app called **Langtern**. Find out more at www.langtern.com
 
 ---
 
